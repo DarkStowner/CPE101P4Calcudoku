@@ -4,11 +4,9 @@
 
 ## Project 4 - Calcudoku
 
-## Group of Two
-
-## Due: 5/22 for 100%
-
-## 5/23 for 80%
+Group of Two
+Due: 5/22 for 100%
+5/23 for 80%
 
 # Purpose
 
@@ -21,7 +19,9 @@ For this program, you will be writing a solver for 5x5 Calcudoku puzzles. A Calc
 grid where the solution satisfies the following:
 
 ● Each row can only have the numbers 1 through N with no duplicates
+
 ● Each column can only have the numbers 1 through N with no duplicates
+
 ● The sum of the numbers in a cage (areas with a bold border) should equal the number shown in the
 upper left portion of the cage. (the upper left value in cage used for demonstration purpose.)
 Puzzle sample input and output files can be downloaded from PolyLearn.
