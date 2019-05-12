@@ -1,7 +1,4 @@
 # CPE101P4Calcudoku
-
-## CPE 101
-
 ## Project 4 - Calcudoku
 
 Group of Two
