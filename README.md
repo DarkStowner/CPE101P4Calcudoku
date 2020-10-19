@@ -1,4 +1,5 @@
 # CPE101P4Calcudoku
+This was a final project for a computer science class at Cal Poly SLO
 ## Project 4 - Calcudoku
 
 Group of Two
