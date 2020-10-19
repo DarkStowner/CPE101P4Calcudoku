@@ -1,6 +1,8 @@
 # CPE101P4Calcudoku
-This was a final project for a computer science class at Cal Poly SLO
-## Project 4 - Calcudoku
+This was a final project for a computer science class at Cal Poly SLO Sussan Einakian, Ph.D.
+
+
+## Project 4 - Calcudoku 
 
 Group of Two
 Due: 5/22 for 100%
